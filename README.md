@@ -40,6 +40,6 @@ Thank you for your interest in contributing to BOB! I welcome contributions from
 
 Before we can accept your contributions, you need to sign our Contributor License Agreement (CLA). This ensures that we have the right to use your contributions under our licenses.
 
-Please review and sign the CLA [CONTRIBUTING.md](CONTRIBUTING.md).
+Please review and sign the CLA file: [CONTRIBUTING.md](CONTRIBUTING.md).
 
 If you have any questions, feel free to contact us at mischahas@got0sleep.xyz.
